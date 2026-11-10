@@ -1,0 +1,5 @@
+I learned how to use Seaborn's countplot to visualize the frequency and distribution of categorical variables like heart disease.   
+I discovered how the hue parameter splits bars into colored sub-groups to compare outcomes across different categories.
+I fixed function syntax errors by learning the correct way to pass a DataFrame into Seaborn commands rather than loose arguments.   
+I understood that histogram bins group continuous variables like age into cleaner, wider numerical buckets.
+I learned how to filter a pandas dataset using conditions (such as data[data['target'] == 1]) to isolate and plot information specifically for patients with heart disease.
